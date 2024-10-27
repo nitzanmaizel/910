@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir -p frontend/src
+mkdir -p frontend/src/types
 
 echo "Creating UserTypes file..."
 

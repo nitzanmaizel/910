@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
   return (
     <PageWrapper>
       <Box>
-        <h1>Welcome, {userInfo?.username}!</h1>
+        <h1>Welcome, {userInfo?.name}!</h1>
       </Box>
     </PageWrapper>
   );
